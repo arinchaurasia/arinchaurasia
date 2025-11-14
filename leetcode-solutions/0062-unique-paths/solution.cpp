@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int uniquePathsHelper(int i, int j, vector<vector<int>> &dp) {
-    // Base cases
-    if (i == 0 && j == 0) return 1;     
-    if (i < 0 || j < 0) return 0;        
 
-    if (dp[i][j] != -1) return dp[i][j];
-
-    int up = uniquePathsHelper(i - 1, j, dp);
-    int left = uniquePathsHelper(i, j - 1, dp);
-
-        return dp[i][j] = up + left;
-}
     int uniquePaths(int m, int n) {
-    vector<vector<int>> dp(m, vector<int>(n, -1));
-        return uniquePathsHelper(m - 1, n - 1, dp);
+        vector<vector<int>> dp(m+1, vector<int>(n+1, 0));
+        for(int row=m-1;row>=0;row--){
+            for(int col=n-1;col>=0;col--){
+                if(row == m - 1 && col == n - 1) {
+                    dp[row][col] = 1;
+                }
+                else{
+                    dp[row][col] = dp[row+1][col] + dp[row][col+1];
+                }
+            }
+        }
+        return dp[0][0];
     }
 };
