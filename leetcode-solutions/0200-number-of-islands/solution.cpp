@@ -1,47 +1,44 @@
 class Solution {
 public:
-    void bfs(vector<vector<char>>& grid, int row, int col,vector<vector<bool>>& isVis) {
-        int n = grid.size();
-        int m = grid[0].size();
 
-        queue<pair<int, int>> q;
-        q.push({row, col});
-        isVis[row][col] = true;
+    int r,c;
+    int row[8] = {-1,1,0,0};
+    int col[8] = {0,0,-1,1};
 
-        int dr[4] = {-1, 0, 1, 0};
-        int dc[4] = {0, 1, 0, -1};
-
-        while (!q.empty()) {
-            auto [r, c] = q.front();
-            q.pop();
-
-            for (int i = 0; i < 4; i++) {
-                int nr = r + dr[i];
-                int nc = c + dc[i];
-
-                if (nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == '1'
-                 && !isVis[nr][nc]) {
-                    isVis[nr][nc] = true;
-                    q.push({nr, nc});
-                }
-            }
-        }
+    bool valid(int i,int j){
+        return i>=0&&i<r&&j>=0&&j<c;
     }
-
     int numIslands(vector<vector<char>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        vector<vector<bool>> isVis(n, vector<bool>(m, false));
-        int islands = 0;
+        r = grid.size();
+        c = grid[0].size();
+        queue<pair<int,int>>q;
+        
+        int count = 0;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1' && isVis[i][j] == false) {
-                    islands++;
-                    bfs(grid, i, j, isVis);
+        for(int i = 0;i<r;i++){
+            for(int j = 0;j<c;j++){
+                if(grid[i][j]=='1'){
+                    count++;
+                    // make all 1 to 0;
+                    q.push(make_pair(i,j));
+                    grid[i][j]='0';
+
+                    while(!q.empty()){
+                        int new_i = q.front().first; 
+                        int new_j = q.front().second;
+                        q.pop();
+
+                        // 4 direction me check kro
+                        for(int k = 0;k<4;k++){
+                            if(valid(new_i+row[k],new_j+col[k])&&grid[new_i+row[k]][new_j+col[k]]=='1'){
+                                grid[new_i+row[k]][new_j+col[k]] = '0';
+                                q.push(make_pair(new_i+row[k],new_j+col[k]));
+                            }
+                        }
+                    }
                 }
             }
         }
-        return islands;
+        return count;    
     }
 };
