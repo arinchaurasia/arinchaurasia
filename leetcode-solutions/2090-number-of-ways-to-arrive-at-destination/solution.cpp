@@ -4,6 +4,7 @@ public:
         const int MOD = 1e9 + 7;
 
         vector<vector<pair<int, int>>> adj(n);
+
         for (int i = 0; i < roads.size(); i++) {
             int u = roads[i][0];
             int v = roads[i][1];
@@ -48,4 +49,3 @@ public:
         return ways[n - 1];
     }
 };
-
