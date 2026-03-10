@@ -1,7 +1,6 @@
 class Solution {
 public:
     int deleteAndEarn(vector<int>& nums) {
-
         int maxNum = 0;
         for(int x : nums)
             maxNum = max(maxNum, x);
@@ -10,7 +9,7 @@ public:
 
         for(int x : nums)
             points[x] += x;
-
+            
         int prev2 = 0;
         int prev1 = points[1];
 
