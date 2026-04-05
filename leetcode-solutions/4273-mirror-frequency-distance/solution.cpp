@@ -1,44 +1,30 @@
 class Solution {
 public:
     int mirrorFrequency(string s) {
-        int n = s.length();
-        int ans = 0;
-        unordered_map<char , int >mpp;
-        for( auto it : s){
-            mpp[it]++;
+        vector<long long> freq(256, 0);
+        long long total_sum = 0;
+        vector<bool> visited(256, false);
+
+        for (char c : s) {
+            freq[c]++;
         }
-        for(char ch : s){
-            char c = ch;
-            if(isdigit(c)){
-                int value = c -'0'; // '1'- '0' = 1
-                char mirror = '0' + '9' - c;
-                if( mpp[mirror] != 0 ){              // mpp.find(mirror) != mpp.end();
-                    int mini = min(mpp[c] , mpp[mirror]);
-                    // ans = ans + mini;
-                    mpp[c] = mpp[c] - mini;
-                    mpp[mirror] = mpp[mirror] - mini; //z = 0 ,  a a a a a z z = 
-                }
-                else{
-                    ans = ans + mpp[c];
-                    //asdgracfgadga
-                    mpp[c] = 0;    
-                }
-// 5 2 -> 3 0 -> ans  = 3 
+
+        string chars = "0123456789abcdefghijklmnopqrstuvwxyz";
+
+        for (char c : chars) {
+            if (visited[c]) {
+                continue;
             }
-            else{
-                char mirror = 'a' + 'z' - c;  // 97 + 132 - 97 = 132 ;
-                if( mpp[mirror] != 0 ){              // mpp.find(mirror) != mpp.end();
-                    int mini = min(mpp[c] , mpp[mirror]);
-                    // ans = ans + mini;
-                    mpp[c] = mpp[c] - mini;
-                    mpp[mirror] = mpp[mirror] - mini; //z = 0
-                }
-                else{
-                    ans = ans + mpp[c];
-                    mpp[c] = 0;    
-                }
+            char m;
+            if (isdigit(c)) {
+                m = '0' + '9' - c;
+            } else {
+                m = 'a' + 'z' - c;
             }
+            total_sum += abs(freq[c] - freq[m]);
+            visited[c] = true;
+            visited[m] = true;
         }
-        return ans;
-    } 
+        return total_sum;
+    }
 };
