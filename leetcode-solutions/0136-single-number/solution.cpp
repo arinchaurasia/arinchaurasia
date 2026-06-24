@@ -1,10 +1,26 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int result = 0;
-        for(int num : nums){
-            result ^= num;
+        for (int i = 0; i < nums.size(); i++) {
+            int num = nums[i];
+            int count = 0;
+            for (int j = 0; j < nums.size(); j++) {
+                if (nums[j] == num) {
+                    count++;
+                }
+            }
+            if (count == 1)
+                return num;
         }
-        return result;
+        return 0;
     }
+
+
+    // int singleNumber(vector<int>& nums) {
+    //     int result = 0;
+    //     for (int num : nums) {
+    //         result ^= num;
+    //     }
+    //     return result;
+    // }
 };
