@@ -4,7 +4,7 @@
 
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Arin%20Chaurasia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Hackathon%20Builder&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Arin%20Chaurasia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Student%20%7C%20SIH%20Finalist&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <!-- PROFILE VIEWS + FOLLOWERS BADGES -->
@@ -13,13 +13,14 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=arinchaurasia&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)
   [![GitHub followers](https://img.shields.io/github/followers/arinchaurasia?logo=github&style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/arinchaurasia?tab=followers)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-arinchaurasia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinchaurasia)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-1785_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/arinchaurasia)
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/arinchaurasia">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A5+Building+AI-powered+solutions+that+matter;%F0%9F%8F%86+Hackathon+winner+%26+competitive+builder;%F0%9F%92%A1+Turning+ideas+into+impactful+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+Galgotias+University;%F0%9F%8F%86+2x+SIH+Finalist+%7C+600%2B+DSA+Problems+Solved;%F0%9F%94%A5+Building+AI-powered+solutions+that+matter" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,24 +35,57 @@
 ```js
 const arin = {
     pronouns: "he" | "him",
-    location: "India 🇮🇳",
-    roles: ["Full-Stack Developer", "AI/ML Engineer", "Hackathon Builder"],
-    currentFocus: "Building AI-powered platforms & competing in hackathons",
-    funFact: "I turn coffee ☕ into production-grade code at hackathons 🚀",
+    location: "Greater Noida, India 🇮🇳",
+    education: "B.Tech CSE (AI & ML) @ Galgotias College | CGPA: 7.88/10",
+    batch: "2023 - 2027",
+    
+    roles: ["Full-Stack Developer", "AI/ML Engineer", "Competitive Programmer"],
+    
+    currentFocus: "Building real-time apps & AI-powered platforms",
+    funFact: "I've solved 600+ DSA problems and built products in under 36 hours at hackathons 🚀",
     
     technologies: {
-        frontEnd: ["React", "Next.js", "TypeScript", "JavaScript", "HTML/CSS"],
-        backEnd: ["Node.js", "Express", "Flask", "Spring Boot"],
-        ai_ml: ["Python", "Streamlit", "Scikit-Learn", "TensorFlow"],
-        databases: ["PostgreSQL", "MongoDB", "Firebase"],
-        devOps: ["Docker", "GitHub Actions", "Vercel"],
-        languages: ["JavaScript", "TypeScript", "Python", "C++", "Java"],
+        languages: ["C++", "Python", "JavaScript", "SQL"],
+        frontEnd: ["React.js", "HTML5", "CSS3"],
+        backEnd: ["Node.js", "Express.js", "REST APIs", "JWT", "Socket.io"],
+        ai_ml: ["Scikit-learn", "Pandas", "NumPy", "NLP", "Streamlit", "Power BI"],
+        databases: ["MongoDB", "MySQL"],
+        cloud_tools: ["AWS", "Git", "GitHub", "VS Code", "Linux", "Vercel", "Render"],
     },
     
-    currentlyLearning: "Advanced System Design & LLM Engineering",
-    askMeAbout: ["AI/ML", "Full-Stack Dev", "Hackathons", "DSA"],
+    certifications: [
+        "Oracle Certified Foundations Associate: AI Foundations (OCI 2025)",
+        "AWS Certified Cloud Practitioner Essentials",
+        "Ethical Hacking Certification - IIT Kharagpur (NPTEL)",
+    ],
+    
+    achievements: {
+        sih2025: "Top 45 Finalist out of 250+ teams",
+        sih2024: "SIH Finalist (College Level)",
+        buildathon: "16th Rank - National Buildathon 2026",
+        dsa: "600+ problems | LeetCode Rating: 1785 | 26+ contests",
+    },
 };
 ```
+
+<br/>
+
+<!-- ============================================== -->
+<!--             🎓 EDUCATION                       -->
+<!-- ============================================== -->
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td align="center" width="120">🏛️</td>
+    <td>
+      <b>Galgotias College of Engineering and Technology</b><br/>
+      B.Tech in Computer Science & Engineering (AI & ML)<br/>
+      📍 Greater Noida, Uttar Pradesh &nbsp;|&nbsp; 📅 2023 – 2027 &nbsp;|&nbsp; 📊 <b>CGPA: 7.88/10</b>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -85,6 +119,25 @@ const arin = {
 <br/>
 
 <!-- ============================================== -->
+<!--          💻 COMPETITIVE PROGRAMMING            -->
+<!-- ============================================== -->
+
+## 💻 Competitive Programming
+
+<div align="center">
+
+| Platform | Stats |
+|:--------:|:-----:|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | **600+ Problems Solved** · Rating: **1785** · **26+ Contests** |
+| ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | Active Problem Solver |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | Competitive Contestant |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) | Competitive Contestant |
+
+</div>
+
+<br/>
+
+<!-- ============================================== -->
 <!--            📈 CONTRIBUTION GRAPH               -->
 <!-- ============================================== -->
 
@@ -104,42 +157,52 @@ const arin = {
 
 <div align="center">
 
-#### 🌐 Frontend
+#### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🌐 Frontend
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 #### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 🤖 AI / ML & Data
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=spacy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-#### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🔧 Tools & DevOps
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 💪 DSA & Competitive
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+#### 📚 Core Concepts
+![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6E40C9?style=for-the-badge&logo=abstract&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CN](https://img.shields.io/badge/Computer_Networks-2196F3?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
@@ -153,24 +216,62 @@ const arin = {
 
 <div align="center">
 
-<a href="https://github.com/arinchaurasia/ET_AI_Hackathon_2.0__Civic_Coders">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=ET_AI_Hackathon_2.0__Civic_Coders&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/arinchaurasia/CompliAI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=CompliAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
 <a href="https://github.com/arinchaurasia/ABB_Accelerator_Hackthon_2026">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=ABB_Accelerator_Hackthon_2026&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=ABB_Accelerator_Hackthon_2026&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
 </a>
-<a href="https://github.com/arinchaurasia/Heart-Disease-Prediction-System-using-Machine-Learning">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=Heart-Disease-Prediction-System-using-Machine-Learning&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+<a href="https://github.com/arinchaurasia/ET_AI_Hackathon_2.0__Civic_Coders">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=ET_AI_Hackathon_2.0__Civic_Coders&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
 </a>
 <a href="https://github.com/arinchaurasia/dataforge-backend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=dataforge-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=dataforge-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
+</a>
+<a href="https://github.com/arinchaurasia/Heart-Disease-Prediction-System-using-Machine-Learning">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=Heart-Disease-Prediction-System-using-Machine-Learning&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
+</a>
+<a href="https://github.com/arinchaurasia/CompliAI">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=CompliAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
 </a>
 <a href="https://github.com/arinchaurasia/Graph-Advanced-DSA-Questions">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=Graph-Advanced-DSA-Questions&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=Graph-Advanced-DSA-Questions&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
 </a>
+
+</div>
+
+<br/>
+
+<!-- ============================================== -->
+<!--         📜 CERTIFICATIONS                      -->
+<!-- ============================================== -->
+
+## 📜 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer |
+|:-----:|:-------------|:------:|
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | **Oracle Certified Foundations Associate: AI Foundations (OCI 2025)** | Oracle |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | **AWS Certified Cloud Practitioner Essentials** | Amazon Web Services |
+| ![NPTEL](https://img.shields.io/badge/NPTEL-1A73E8?style=flat-square&logo=google-scholar&logoColor=white) | **Ethical Hacking Certification** | IIT Kharagpur |
+
+</div>
+
+<br/>
+
+<!-- ============================================== -->
+<!--         🏅 ACHIEVEMENTS                        -->
+<!-- ============================================== -->
+
+## 🏅 Achievements & Hackathons
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|:--:|:-----------|:--------|
+| 🥇 | **SIH (Smart India Hackathon) 2025** | **Top 45 Finalist** out of 250+ teams — AI-based document summarization system |
+| 🥈 | **SIH (Smart India Hackathon) 2024** | **SIH Finalist** (College Level) — Document automation for government transport |
+| 🏅 | **National Buildathon 2026** | **16th Rank** — Organized by Forge India |
+| 💻 | **Competitive Programming** | **600+ problems** solved across LeetCode, GFG, CodeChef & Codeforces |
+| 📊 | **LeetCode** | Rating: **1785** · **26+ coding contests** participated |
 
 </div>
 
@@ -190,8 +291,6 @@ const arin = {
   </picture>
 </div>
 
-> 💡 **Setup Tip:** To enable the snake animation, add the GitHub Action workflow below to your profile repo!
-
 <br/>
 
 <!-- ============================================== -->
@@ -200,10 +299,12 @@ const arin = {
 
 ## 🎯 What I'm Up To
 
-- 🔭 Currently working on **AI-powered industrial safety platforms**
-- 🏆 Building & competing in **national-level hackathons**
-- 🌱 Learning **Advanced System Design & LLM Engineering**
-- 💬 Ask me about **Full-Stack Development, AI/ML, & Hackathon Strategies**
+- 🎓 Pursuing **B.Tech CSE (AI & ML)** at Galgotias College (2023-2027)
+- 🔭 Building **real-time systems** with React, Node.js & Socket.io
+- 🏆 Competing in **national-level hackathons** (2x SIH Finalist!)
+- 🧠 Grinding **DSA** — 600+ problems solved, LeetCode rating **1785**
+- ☁️ Exploring **AWS Cloud** & **System Design**
+- 💬 Ask me about **Full-Stack Dev, AI/ML, DSA, or Hackathon Strategies**
 - 🤝 Open to **collaborate on impactful open-source projects**
 - ⚡ Fun fact: I've built complete products in **under 36 hours** at hackathons!
 
@@ -219,7 +320,9 @@ const arin = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinchaurasia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinchaurasia)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arinchaurasia@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/arinchaurasia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arinchaurasia30@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-6E40C9?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/arinchaurasia)
 
 </div>
 
