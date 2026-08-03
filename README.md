@@ -32,20 +32,28 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
+> 🚀 **Passionate Full-Stack Developer & AI/ML Engineer** building real-time web applications, predictive machine learning models, and high-impact hackathon solutions.
 
+<br/>
 
-🎓 **B.Tech CSE (AI & ML)** @ Galgotias College of Engineering & Technology
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 Greater Noida, UP &nbsp;|&nbsp; 📅 2023 – 2027 &nbsp;|&nbsp; 📊 **CGPA: 7.88/10**
+<div align="center">
 
-🔭 Currently building **AI-powered real-time applications**
+| 🎓 Degree | 🏛️ Institution | 📍 Location | 📅 Batch | 📊 CGPA |
+|:---:|:---:|:---:|:---:|:---:|
+| **B.Tech CSE (AI & ML)** | **Galgotias College of Engineering & Technology** | Greater Noida, UP 🇮🇳 | 2023 – 2027 | **7.88 / 10** |
 
-🌱 Learning **Advanced System Design & LLM Engineering**
+</div>
 
-💬 Ask me about **Full-Stack Dev, AI/ML, DSA, or Hackathon Strategies**
+<br/>
 
-🤝 Open to **collaborate on impactful open-source projects**
+### ⚡ Highlights & Current Focus
 
-⚡ Fun fact: I build complete products in **under 36 hours** at hackathons!
+- 🔭 **Currently Building:** AI-powered real-time applications & smart telemetry platforms
+- 🌱 **Learning & Exploring:** Advanced System Design, LLM Engineering & Cloud Architecture
+- 💬 **Ask Me About:** Full-Stack Web Dev, AI/ML, Data Structures & Algorithms (DSA), Hackathon Strategies
+- 🤝 **Open To:** Collaborating on impactful open-source projects & innovative tech builds
+- ⚡ **Fun Fact:** I turn coffee ☕ into production-grade code in **under 36 hours** at hackathons!
+
 
 <br clear="both"/>
 <br/>
