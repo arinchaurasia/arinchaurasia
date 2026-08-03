@@ -4,7 +4,7 @@
 
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Arin%20Chaurasia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Student%20%7C%20SIH%20College%20Finalist&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Arin%20Chaurasia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Student%20%7C%20Competitive%20Programmer%20%7C%20SIH%20College%20Finalist&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <!-- PROFILE VIEWS + FOLLOWERS BADGES -->
@@ -20,7 +20,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/arinchaurasia">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+Galgotias+College;%F0%9F%8F%86+2x+SIH+College+Finalist+%7C+600%2B+DSA+Problems+Solved;%F0%9F%94%A5+Building+AI-powered+real-time+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+Galgotias+College;%F0%9F%92%BB+Competitive+Programmer+%7C+LeetCode+1785+Rating;%F0%9F%8F%86+2x+SIH+College+Finalist+%7C+600%2B+DSA+Problems+Solved;%F0%9F%94%A5+Building+AI-powered+real-time+solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -79,8 +79,11 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="98%" />
 </div>
 
+<br/>
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arinchaurasia&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Arin's%20GitHub%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
+</div>
 
 <br/>
 
