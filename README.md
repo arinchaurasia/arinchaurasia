@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arinchaurasia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=arinchaurasia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arinchaurasia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
@@ -68,6 +68,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arinchaurasia&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Arin's%20GitHub%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
 </div>
+
 
 
 <br/>
@@ -124,17 +125,7 @@
 
 <br/>
 
-<!-- ============================================== -->
-<!--            📈 CONTRIBUTION GRAPH               -->
-<!-- ============================================== -->
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arinchaurasia&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Arin's%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
-</div>
-
-<br/>
 
 <!-- ============================================== -->
 <!--          🛠️ TECH STACK & TOOLS                 -->
