@@ -212,10 +212,12 @@
 <div align="center">
 
 | Badge | Certification | Issuer |
-|:-----:|:-------------|:------:|
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | **Oracle Certified Foundations Associate: AI Foundations (OCI 2025)** | Oracle |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | **AWS Certified Cloud Practitioner Essentials** | Amazon Web Services |
-| ![NPTEL](https://img.shields.io/badge/NPTEL-1A73E8?style=flat-square&logo=google-scholar&logoColor=white) | **Ethical Hacking Certification** | IIT Kharagpur |
+| Badge | Certification | Issuer | Verification |
+|:-----:|:-------------|:------:|:------------:|
+| [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BA45B920307BCA2AD7236D8E9D35BC79894F23FC9E6122241BA4C69AECD74104) | [**Oracle Certified Foundations Associate: AI Foundations (OCI 2025)**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BA45B920307BCA2AD7236D8E9D35BC79894F23FC9E6122241BA4C69AECD74104) | Oracle | [Verify 🔗](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BA45B920307BCA2AD7236D8E9D35BC79894F23FC9E6122241BA4C69AECD74104) |
+| [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://drive.google.com/file/d/1kdAkDk5rcVghQlLaPeykqb96MnQwEvZF/view) | [**AWS Certified Cloud Practitioner Essentials**](https://drive.google.com/file/d/1kdAkDk5rcVghQlLaPeykqb96MnQwEvZF/view) | Amazon Web Services | [View Certificate 📄](https://drive.google.com/file/d/1kdAkDk5rcVghQlLaPeykqb96MnQwEvZF/view) |
+| [![NPTEL](https://img.shields.io/badge/NPTEL-1A73E8?style=flat-square&logo=google-scholar&logoColor=white)](https://drive.google.com/file/d/1OSM1y3L0EmS2iDoMUkMQ_zKlOxIZF4Ng/view) | [**Ethical Hacking Certification**](https://drive.google.com/file/d/1OSM1y3L0EmS2iDoMUkMQ_zKlOxIZF4Ng/view) | IIT Kharagpur | [View Certificate 📄](https://drive.google.com/file/d/1OSM1y3L0EmS2iDoMUkMQ_zKlOxIZF4Ng/view) |
+
 
 </div>
 
