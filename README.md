@@ -65,6 +65,13 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arinchaurasia&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Arin's%20GitHub%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
+</div>
+
+
+<br/>
+
 <!-- ============================================== -->
 <!--          💻 COMPETITIVE PROGRAMMING            -->
 <!-- ============================================== -->
