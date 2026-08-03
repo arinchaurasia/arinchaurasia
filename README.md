@@ -32,41 +32,33 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-```js
-const arin = {
-    pronouns: "he" | "him",
-    location: "Greater Noida, India 🇮🇳",
-    education: "B.Tech CSE (AI & ML) @ Galgotias College | CGPA: 7.88/10",
-    batch: "2023 - 2027",
-    
-    roles: ["Full-Stack Developer", "AI/ML Engineer", "Competitive Programmer"],
-    
-    currentFocus: "Building real-time apps & AI-powered platforms",
-    funFact: "I've solved 600+ DSA problems and built products in under 36 hours at hackathons 🚀",
-    
-    technologies: {
-        languages: ["C++", "Python", "JavaScript", "SQL"],
-        frontEnd: ["React.js", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Express.js", "REST APIs", "JWT", "Socket.io"],
-        ai_ml: ["Scikit-learn", "Pandas", "NumPy", "NLP", "Streamlit", "Power BI"],
-        databases: ["MongoDB", "MySQL"],
-        cloud_tools: ["AWS", "Git", "GitHub", "VS Code", "Linux", "Vercel", "Render"],
-    },
-    
-    certifications: [
-        "Oracle Certified Foundations Associate: AI Foundations (OCI 2025)",
-        "AWS Certified Cloud Practitioner Essentials",
-        "Ethical Hacking Certification - IIT Kharagpur (NPTEL)",
-    ],
-    
-    achievements: {
-        sih2025: "Top 45 Finalist out of 250+ teams",
-        sih2024: "SIH Finalist (College Level)",
-        buildathon: "16th Rank - National Buildathon 2026",
-        dsa: "600+ problems | LeetCode Rating: 1785 | 26+ contests",
-    },
-};
-```
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinchaurasia&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=6" width="320" />
+
+🎓 **B.Tech CSE (AI & ML)** @ Galgotias College of Engineering & Technology
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 Greater Noida, UP &nbsp;|&nbsp; 📅 2023 – 2027 &nbsp;|&nbsp; 📊 **CGPA: 7.88/10**
+
+🏆 **2x SIH Finalist** — Smart India Hackathon 2024 & 2025
+
+💻 **600+ DSA problems** solved | LeetCode Rating: **1785** | **26+ contests**
+
+🔭 Currently building **AI-powered real-time applications**
+
+🌱 Learning **Advanced System Design & LLM Engineering**
+
+⚡ Fun fact: I build complete products in **under 36 hours** at hackathons!
+
+<br/>
+
+### 🏅 Certifications
+
+<div align="left">
+
+![Oracle](https://img.shields.io/badge/Oracle_AI_Foundations_(OCI_2025)-F80000?style=flat-square&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![NPTEL](https://img.shields.io/badge/Ethical_Hacking_—_IIT_Kharagpur-1A73E8?style=flat-square&logo=google-scholar&logoColor=white)
+
+</div>
+
 
 <br/>
 
@@ -112,9 +104,6 @@ const arin = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arinchaurasia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinchaurasia&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
 
 <br/>
 
