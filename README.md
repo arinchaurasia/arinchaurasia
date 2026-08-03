@@ -88,22 +88,13 @@
 
 <br/>
 
-<!-- DYNAMIC REAL-TIME BADGES (Auto-updated live via platform APIs) -->
-<div align="center">
-
-[![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=6e40c9&label=LeetCode%20Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/arinchaurasia)
-[![LeetCode Easy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=00b8a3&label=Easy&query=%24.easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=00b8a3)](https://leetcode.com/u/arinchaurasia)
-[![LeetCode Medium](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=ffc01e&label=Medium&query=%24.mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=ffc01e)](https://leetcode.com/u/arinchaurasia)
-[![LeetCode Hard](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=ef4743&label=Hard&query=%24.hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=ef4743)](https://leetcode.com/u/arinchaurasia)
-
-</div>
-
 <div align="center">
 
 [![Codeforces Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=1F8ACB&label=Codeforces&query=%24.result%5B0%5D.rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Darin.chaurasia11&logo=codeforces)](https://codeforces.com/profile/arin.chaurasia11)
 [![Codeforces Rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=1F8ACB&label=CF%20Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Darin.chaurasia11&logo=codeforces)](https://codeforces.com/profile/arin.chaurasia11)
 
 </div>
+
 
 <br/>
 
