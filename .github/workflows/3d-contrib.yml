@@ -1,0 +1,27 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:        # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: arinchaurasia
+      - name: Commit & Push
+        run: |
+          git config user.name "Arin Chaurasia"
+          git config user.email "arinchaurasia30@gmail.com"
+          git add -A
+          git diff --quiet HEAD || git commit -m "Update 3D contribution graph"
+          git push
