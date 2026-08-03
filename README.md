@@ -32,7 +32,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinchaurasia&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=6" width="320" />
+
 
 🎓 **B.Tech CSE (AI & ML)** @ Galgotias College of Engineering & Technology
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 Greater Noida, UP &nbsp;|&nbsp; 📅 2023 – 2027 &nbsp;|&nbsp; 📊 **CGPA: 7.88/10**
@@ -59,8 +59,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=arinchaurasia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arinchaurasia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinchaurasia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="80%" />
 </div>
 
 <br/>
@@ -68,6 +67,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arinchaurasia&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Arin's%20GitHub%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
 </div>
+
 
 
 
@@ -194,26 +194,17 @@
 
 <div align="center">
 
-<a href="https://github.com/arinchaurasia/ABB_Accelerator_Hackthon_2026">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=ABB_Accelerator_Hackthon_2026&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
-</a>
-<a href="https://github.com/arinchaurasia/ET_AI_Hackathon_2.0__Civic_Coders">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=ET_AI_Hackathon_2.0__Civic_Coders&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
-</a>
-<a href="https://github.com/arinchaurasia/dataforge-backend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=dataforge-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
-</a>
-<a href="https://github.com/arinchaurasia/Heart-Disease-Prediction-System-using-Machine-Learning">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=Heart-Disease-Prediction-System-using-Machine-Learning&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
-</a>
-<a href="https://github.com/arinchaurasia/CompliAI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=CompliAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
-</a>
-<a href="https://github.com/arinchaurasia/Graph-Advanced-DSA-Questions">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arinchaurasia&repo=Graph-Advanced-DSA-Questions&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&description_lines_count=2" />
-</a>
+| Project | Tech Stack | Description | Repo |
+|:-------|:----------:|:------------|:----:|
+| **Venti-Guard** | `React` `Node.js` `MongoDB` `Socket.io` | Real-time mining ventilation control system across 6 underground zones with incident tracking. | [Code 🔗](https://github.com/arinchaurasia/ABB_Accelerator_Hackthon_2026) |
+| **Civic Coders Platform** | `JavaScript` `AI` `REST API` | AI-powered industrial safety intelligence platform transforming raw mining telemetry into compound risk alerts. | [Code 🔗](https://github.com/arinchaurasia/ET_AI_Hackathon_2.0__Civic_Coders) |
+| **DataForge Pro** | `Node.js` `Express` `MongoDB` `Chart.js` | Scalable data analytics backend & dashboard processing 10,000+ CSV rows with automated validation. | [Code 🔗](https://github.com/arinchaurasia/dataforge-backend) |
+| **Heart Disease Predictor** | `Python` `Scikit-learn` `Streamlit` | Multi-model ML prediction system achieving 86% accuracy across 11 clinical parameters. | [Code 🔗](https://github.com/arinchaurasia/Heart-Disease-Prediction-System-using-Machine-Learning) |
+| **CompliAI** | `TypeScript` `AI/ML` | AI-powered pipeline generating ASCI-compliant catalog copy with compliance certificates. | [Code 🔗](https://github.com/arinchaurasia/CompliAI) |
+| **Graph & Advanced DSA** | `C++` `DSA` | Curated collection of advanced graph algorithms, competitive programming solutions, and data structures. | [Code 🔗](https://github.com/arinchaurasia/Graph-Advanced-DSA-Questions) |
 
 </div>
+
 
 <br/>
 
