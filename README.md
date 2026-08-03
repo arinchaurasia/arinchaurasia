@@ -81,30 +81,47 @@
 
 ## 💻 Competitive Programming
 
-<!-- LIVE LEETCODE STATS CARD — auto-updates with real rating & solved count -->
+<!-- LIVE LEETCODE STATS CARD — Auto-updates rating, solved count & submission calendar live -->
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/arinchaurasia?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="500" />
+  <a href="https://leetcode.com/u/arinchaurasia">
+    <img src="https://leetcard.jacoblin.cool/arinchaurasia?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Live Stats" width="500" />
+  </a>
+</div>
+
+<br/>
+
+<!-- DYNAMIC REAL-TIME BADGES (Auto-updated live via platform APIs) -->
+<div align="center">
+
+[![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=6e40c9&label=LeetCode%20Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/arinchaurasia)
+[![LeetCode Easy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=00b8a3&label=Easy&query=%24.easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=00b8a3)](https://leetcode.com/u/arinchaurasia)
+[![LeetCode Medium](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=ffc01e&label=Medium&query=%24.mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=ffc01e)](https://leetcode.com/u/arinchaurasia)
+[![LeetCode Hard](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=ef4743&label=Hard&query=%24.hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=ef4743)](https://leetcode.com/u/arinchaurasia)
+
+</div>
+
+<div align="center">
+
+[![Codeforces Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=1F8ACB&label=Codeforces&query=%24.result%5B0%5D.rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Darin.chaurasia11&logo=codeforces)](https://codeforces.com/profile/arin.chaurasia11)
+[![Codeforces Rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=1F8ACB&label=CF%20Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Darin.chaurasia11&logo=codeforces)](https://codeforces.com/profile/arin.chaurasia11)
+
 </div>
 
 <br/>
 
 <div align="center">
 
-| Platform | Profile | Stats |
-|:--------:|:-------:|:-----:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arinchaurasia) | [arinchaurasia](https://leetcode.com/u/arinchaurasia) | ⭐ Rating: **1785** · 21 Contests |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arinchaurasia) | [arinchaurasia](https://www.codechef.com/users/arinchaurasia) | ⭐ Rating: **1153** · 4 Contests |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/arin.chaurasia11) | [arin.chaurasia11](https://codeforces.com/profile/arin.chaurasia11) | Competitive Contestant |
-| [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/arinchaurasia) | [arinchaurasia](https://www.geeksforgeeks.org/user/arinchaurasia) | Active Problem Solver |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/arinchaurasia) | [arinchaurasia](https://www.hackerrank.com/profile/arinchaurasia) | Fundamentals |
+| Platform | Profile | Quick Link |
+|:--------:|:-------:|:----------:|
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/arinchaurasia) | `arinchaurasia` | [View Profile 🔗](https://leetcode.com/u/arinchaurasia) |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arinchaurasia) | `arinchaurasia` | [View Profile 🔗](https://www.codechef.com/users/arinchaurasia) |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/arin.chaurasia11) | `arin.chaurasia11` | [View Profile 🔗](https://codeforces.com/profile/arin.chaurasia11) |
+| [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/arinchaurasia) | `arinchaurasia` | [View Profile 🔗](https://www.geeksforgeeks.org/user/arinchaurasia) |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/arinchaurasia) | `arinchaurasia` | [View Profile 🔗](https://www.hackerrank.com/profile/arinchaurasia) |
+| [![Codolio](https://img.shields.io/badge/Codolio-6E40C9?style=flat-square&logo=codio&logoColor=white)](https://codolio.com/profile/arinchaurasia) | `arinchaurasia` | [View Portfolio 🔗](https://codolio.com/profile/arinchaurasia) |
 
 </div>
 
-<div align="center">
-
-**📊 Total: 645 Questions Solved &nbsp;|&nbsp; 🔥 218 Active Days &nbsp;|&nbsp; 📝 942 Submissions &nbsp;|&nbsp; 🏅 66 Day Max Streak**
-
-</div>
 
 
 
