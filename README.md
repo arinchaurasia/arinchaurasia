@@ -187,13 +187,15 @@
 
 | Project | Tech Stack | Description | Repo |
 |:-------|:----------:|:------------|:----:|
+| **DataForge Pro** | `Node.js` `Express` `MongoDB` `Chart.js` | Scalable data analytics backend & dashboard processing 10,000+ CSV rows with automated validation. | [Code 🔗](https://github.com/arinchaurasia/dataforge-backend) |
 | **Venti-Guard** | `React` `Node.js` `MongoDB` `Socket.io` | Real-time mining ventilation control system across 6 underground zones with incident tracking. | [Code 🔗](https://github.com/arinchaurasia/ABB_Accelerator_Hackthon_2026) |
 | **KMRL DocuSense** | `Python` `Flask` `NLP` `GCP` | SIH 2025 AI-powered document intelligence & OCR summarization system, reducing triage time by 80%. | [Code 🔗](https://github.com/arinchaurasia/kmrl-docusense) |
 | **SmartCityFix** | `React` `Spring Boot` `JWT` `PostgreSQL` | Civic issue reporting and management platform built for Bharat Academix CodeQuest Hackathon. | [Code 🔗](https://github.com/arinchaurasia/Bharat-Academix-CodeQuest-Hackathon) |
-| **DataForge Pro** | `Node.js` `Express` `MongoDB` `Chart.js` | Scalable data analytics backend & dashboard processing 10,000+ CSV rows with automated validation. | [Code 🔗](https://github.com/arinchaurasia/dataforge-backend) |
 | **Heart Disease Predictor** | `Python` `Scikit-learn` `Streamlit` | Multi-model ML prediction system achieving 86% accuracy across 11 clinical parameters. | [Code 🔗](https://github.com/arinchaurasia/Heart-Disease-Prediction-System-using-Machine-Learning) |
 | **CompliAI** | `TypeScript` `AI/ML` | AI-powered pipeline generating ASCI-compliant catalog copy with compliance certificates. | [Code 🔗](https://github.com/arinchaurasia/CompliAI) |
 | **Stage Artist Portfolio** | `TypeScript` `React` `CSS3` | Interactive, responsive portfolio website built for stage performing artists. | [Code 🔗](https://github.com/arinchaurasia/stage-artist-portfolio) |
+| **SGPA Calculator 2026** | `JavaScript` `HTML5` `CSS3` | Fast, accurate SGPA & CGPA calculator web application for university academic credit evaluation. | [Code 🔗](https://github.com/arinchaurasia/SGPA-Calculator-2026) |
+
 
 
 </div>
