@@ -50,17 +50,7 @@
 <br clear="both"/>
 <br/>
 
-<!-- ============================================== -->
-<!--             🏆 GITHUB TROPHIES                 -->
-<!-- ============================================== -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arinchaurasia&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 <!-- ============================================== -->
 <!--           📊 GITHUB STATS DASHBOARD            -->
