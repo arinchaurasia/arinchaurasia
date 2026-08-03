@@ -188,11 +188,13 @@
 | Project | Tech Stack | Description | Repo |
 |:-------|:----------:|:------------|:----:|
 | **Venti-Guard** | `React` `Node.js` `MongoDB` `Socket.io` | Real-time mining ventilation control system across 6 underground zones with incident tracking. | [Code 🔗](https://github.com/arinchaurasia/ABB_Accelerator_Hackthon_2026) |
-| **Civic Coders Platform** | `JavaScript` `AI` `REST API` | AI-powered industrial safety intelligence platform transforming raw mining telemetry into compound risk alerts. | [Code 🔗](https://github.com/arinchaurasia/ET_AI_Hackathon_2.0__Civic_Coders) |
+| **KMRL DocuSense** | `Python` `Flask` `NLP` `GCP` | SIH 2025 AI-powered document intelligence & OCR summarization system, reducing triage time by 80%. | [Code 🔗](https://github.com/arinchaurasia/kmrl-docusense) |
+| **SmartCityFix** | `React` `Spring Boot` `JWT` `PostgreSQL` | Civic issue reporting and management platform built for Bharat Academix CodeQuest Hackathon. | [Code 🔗](https://github.com/arinchaurasia/Bharat-Academix-CodeQuest-Hackathon) |
 | **DataForge Pro** | `Node.js` `Express` `MongoDB` `Chart.js` | Scalable data analytics backend & dashboard processing 10,000+ CSV rows with automated validation. | [Code 🔗](https://github.com/arinchaurasia/dataforge-backend) |
 | **Heart Disease Predictor** | `Python` `Scikit-learn` `Streamlit` | Multi-model ML prediction system achieving 86% accuracy across 11 clinical parameters. | [Code 🔗](https://github.com/arinchaurasia/Heart-Disease-Prediction-System-using-Machine-Learning) |
 | **CompliAI** | `TypeScript` `AI/ML` | AI-powered pipeline generating ASCI-compliant catalog copy with compliance certificates. | [Code 🔗](https://github.com/arinchaurasia/CompliAI) |
-| **Graph & Advanced DSA** | `C++` `DSA` | Curated collection of advanced graph algorithms, competitive programming solutions, and data structures. | [Code 🔗](https://github.com/arinchaurasia/Graph-Advanced-DSA-Questions) |
+| **Stage Artist Portfolio** | `TypeScript` `React` `CSS3` | Interactive, responsive portfolio website built for stage performing artists. | [Code 🔗](https://github.com/arinchaurasia/stage-artist-portfolio) |
+
 
 </div>
 
