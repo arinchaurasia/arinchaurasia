@@ -20,9 +20,10 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/arinchaurasia">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+Galgotias+College;%F0%9F%8F%86+2x+SIH+College+Finalist+%7C+600%2B+DSA+Problems+Solved;%F0%9F%94%A5+Building+AI-powered+solutions+that+matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+Galgotias+College;%F0%9F%8F%86+2x+SIH+College+Finalist+%7C+600%2B+DSA+Problems+Solved;%F0%9F%94%A5+Building+AI-powered+real-time+solutions" alt="Typing SVG" />
   </a>
 </div>
+
 
 
 <br/>
