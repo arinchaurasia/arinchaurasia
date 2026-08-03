@@ -19,3 +19,6 @@ jobs:
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: leetcode-solutions
           commit-header: "LeetCode Sync - "
+          git-author-name: "Arin Chaurasia"
+          git-author-email: "arinchaurasia30@gmail.com"
+
