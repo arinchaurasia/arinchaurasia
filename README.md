@@ -38,11 +38,12 @@
 
 <div align="center">
 
-| 🎓 Degree | 🏛️ Institution | 📍 Location | 📅 Batch | 📊 CGPA |
-|:---:|:---:|:---:|:---:|:---:|
-| **B.Tech CSE (AI & ML)** | **Galgotias College of Engineering & Technology** | Greater Noida, UP 🇮🇳 | 2023 – 2027 | **7.88 / 10** |
+| 🎓 Degree | 🏛️ Institution | 📍 Location | 📅 Batch |
+|:---:|:---:|:---:|:---:|
+| **B.Tech CSE (AI & ML)** | **Galgotias College of Engineering & Technology** | Greater Noida, UP 🇮🇳 | 2023 – 2027 |
 
 </div>
+
 
 <br/>
 
