@@ -81,16 +81,32 @@
 
 ## 💻 Competitive Programming
 
+<!-- LIVE LEETCODE STATS CARD — auto-updates with real rating & solved count -->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/arinchaurasia?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="500" />
+</div>
+
+<br/>
+
 <div align="center">
 
-| Platform | Stats |
-|:--------:|:-----:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | **600+ Problems Solved** · Rating: **1785** · **26+ Contests** |
+![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=6e40c9&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=FFA116)
+![LeetCode Easy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=00b8a3&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=00b8a3)
+![LeetCode Medium](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=ffc01e&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=ffc01e)
+![LeetCode Hard](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=ef4743&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farinchaurasia&logo=leetcode&logoColor=ef4743)
+
+</div>
+
+<div align="center">
+
+| Platform | Profile |
+|:--------:|:-------:|
 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | Active Problem Solver |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | Competitive Contestant |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) | Competitive Contestant |
 
 </div>
+
 
 <br/>
 
