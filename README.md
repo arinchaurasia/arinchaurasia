@@ -37,48 +37,17 @@
 🎓 **B.Tech CSE (AI & ML)** @ Galgotias College of Engineering & Technology
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 Greater Noida, UP &nbsp;|&nbsp; 📅 2023 – 2027 &nbsp;|&nbsp; 📊 **CGPA: 7.88/10**
 
-🏆 **2x SIH Finalist** — Smart India Hackathon 2024 & 2025
-
-💻 **600+ DSA problems** solved | LeetCode Rating: **1785** | **26+ contests**
-
 🔭 Currently building **AI-powered real-time applications**
 
 🌱 Learning **Advanced System Design & LLM Engineering**
 
+💬 Ask me about **Full-Stack Dev, AI/ML, DSA, or Hackathon Strategies**
+
+🤝 Open to **collaborate on impactful open-source projects**
+
 ⚡ Fun fact: I build complete products in **under 36 hours** at hackathons!
 
-<br/>
-
-### 🏅 Certifications
-
-<div align="left">
-
-![Oracle](https://img.shields.io/badge/Oracle_AI_Foundations_(OCI_2025)-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![NPTEL](https://img.shields.io/badge/Ethical_Hacking_—_IIT_Kharagpur-1A73E8?style=flat-square&logo=google-scholar&logoColor=white)
-
-</div>
-
-
-<br/>
-
-<!-- ============================================== -->
-<!--             🎓 EDUCATION                       -->
-<!-- ============================================== -->
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td align="center" width="120">🏛️</td>
-    <td>
-      <b>Galgotias College of Engineering and Technology</b><br/>
-      B.Tech in Computer Science & Engineering (AI & ML)<br/>
-      📍 Greater Noida, Uttar Pradesh &nbsp;|&nbsp; 📅 2023 – 2027 &nbsp;|&nbsp; 📊 <b>CGPA: 7.88/10</b>
-    </td>
-  </tr>
-</table>
-
+<br clear="both"/>
 <br/>
 
 <!-- ============================================== -->
@@ -103,7 +72,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arinchaurasia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arinchaurasia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
-
 
 <br/>
 
@@ -229,7 +197,7 @@
 <br/>
 
 <!-- ============================================== -->
-<!--         📜 CERTIFICATIONS                      -->
+<!--         📜 CERTIFICATIONS & ACHIEVEMENTS       -->
 <!-- ============================================== -->
 
 ## 📜 Certifications
@@ -246,10 +214,6 @@
 
 <br/>
 
-<!-- ============================================== -->
-<!--         🏅 ACHIEVEMENTS                        -->
-<!-- ============================================== -->
-
 ## 🏅 Achievements & Hackathons
 
 <div align="center">
@@ -259,8 +223,6 @@
 | 🥇 | **SIH (Smart India Hackathon) 2025** | **Top 45 Finalist** out of 250+ teams — AI-based document summarization system |
 | 🥈 | **SIH (Smart India Hackathon) 2024** | **SIH Finalist** (College Level) — Document automation for government transport |
 | 🏅 | **National Buildathon 2026** | **16th Rank** — Organized by Forge India |
-| 💻 | **Competitive Programming** | **600+ problems** solved across LeetCode, GFG, CodeChef & Codeforces |
-| 📊 | **LeetCode** | Rating: **1785** · **26+ coding contests** participated |
 
 </div>
 
@@ -279,23 +241,6 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/arinchaurasia/arinchaurasia/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-<br/>
-
-<!-- ============================================== -->
-<!--         🎯 CURRENT FOCUS & GOALS              -->
-<!-- ============================================== -->
-
-## 🎯 What I'm Up To
-
-- 🎓 Pursuing **B.Tech CSE (AI & ML)** at Galgotias College (2023-2027)
-- 🔭 Building **real-time systems** with React, Node.js & Socket.io
-- 🏆 Competing in **national-level hackathons** (2x SIH Finalist!)
-- 🧠 Grinding **DSA** — 600+ problems solved, LeetCode rating **1785**
-- ☁️ Exploring **AWS Cloud** & **System Design**
-- 💬 Ask me about **Full-Stack Dev, AI/ML, DSA, or Hackathon Strategies**
-- 🤝 Open to **collaborate on impactful open-source projects**
-- ⚡ Fun fact: I've built complete products in **under 36 hours** at hackathons!
 
 <br/>
 
@@ -331,10 +276,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
 </div>
-
-<!-- ============================================== -->
-<!--     ⭐ STAR MY REPOS IF YOU FIND THEM USEFUL!  -->
-<!-- ============================================== -->
 
 <div align="center">
   <b>If you find my projects interesting, consider giving them a ⭐!</b>
