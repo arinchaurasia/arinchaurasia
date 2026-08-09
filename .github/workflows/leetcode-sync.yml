@@ -1,35 +1,51 @@
 # 🟢 LeetCode Sync — Auto-push LeetCode solutions to GitHub
-# Every time you solve a problem on LeetCode, this syncs it to a GitHub repo
-# making your contribution graph GREEN!
+# Runs at varied, organic-looking times to keep the contribution graph natural.
 #
-# ⚠️ SETUP REQUIRED (one-time):
-# 1. Go to https://github.com/new and create a new repo called "leetcode-solutions"
-# 2. Go to https://leetcode.com → Open browser DevTools (F12) → Application → Cookies
-#    → Copy the value of the "LEETCODE_SESSION" cookie
-#    → Copy the value of the "csrftoken" cookie
-# 3. In your "leetcode-solutions" repo → Settings → Secrets → Actions
-#    → Add secret: Name = LEETCODE_SESSION, Value = (paste session cookie)
-#    → Add secret: LEETCODE_CSRF_TOKEN, Value = (paste csrftoken cookie)
-# 4. Copy this file to: leetcode-solutions/.github/workflows/leetcode-sync.yml
-# 5. Go to Actions tab → Enable workflows → Run manually once to test
+# ⚠️ SETUP REQUIRED:
+# 1. Go to https://leetcode.com → F12 → Application → Cookies
+#    → Copy LEETCODE_SESSION and csrftoken
+# 2. Repo → Settings → Secrets → Actions
+#    → Add: LEETCODE_SESSION and LEETCODE_CSRF_TOKEN
 #
-# 🔄 The session cookie expires every ~1-2 weeks. If the sync fails,
-#    refresh both cookies (steps 2-3 above).
-#
-# The sync runs every 12 hours automatically + on manual trigger.
+# 🔄 Session cookies expire every ~1-2 weeks. Refresh when sync fails.
 
 name: LeetCode Sync
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours (twice a day)
+    # Staggered times to make the graph look organic (not evenly spaced)
+    - cron: "23 5 * * *"    # ~5:23 AM UTC (some days catch morning solves)
+    - cron: "47 14 * * *"   # ~2:47 PM UTC (afternoon sync)
+    - cron: "11 21 * * *"   # ~9:11 PM UTC (evening sync)
   workflow_dispatch:         # Manual trigger
 
 jobs:
   leetcode-sync:
     runs-on: ubuntu-latest
     steps:
+      # Random delay (0-45 min) so commits don't land at exact cron times
+      - name: Random Delay
+        run: |
+          DELAY=$((RANDOM % 2700))
+          echo "⏳ Waiting ${DELAY}s to randomize commit time..."
+          sleep $DELAY
+
+      # Randomly skip ~30% of runs so some days get 2 commits, some get 3, some get 1
+      - name: Random Skip Check
+        id: skip_check
+        run: |
+          ROLL=$((RANDOM % 100))
+          echo "🎲 Roll: $ROLL"
+          if [ $ROLL -lt 30 ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "⏭️ Skipping this run to vary the graph"
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "✅ Running sync"
+          fi
+
       - name: Sync LeetCode Solutions
+        if: steps.skip_check.outputs.skip != 'true'
         uses: joshcai/leetcode-sync@v1.7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
