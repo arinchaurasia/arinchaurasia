@@ -1,12 +1,29 @@
+# 🟢 LeetCode Sync — Auto-push LeetCode solutions to GitHub
+# Every time you solve a problem on LeetCode, this syncs it to a GitHub repo
+# making your contribution graph GREEN!
+#
+# ⚠️ SETUP REQUIRED (one-time):
+# 1. Go to https://github.com/new and create a new repo called "leetcode-solutions"
+# 2. Go to https://leetcode.com → Open browser DevTools (F12) → Application → Cookies
+#    → Copy the value of the "LEETCODE_SESSION" cookie
+#    → Copy the value of the "csrftoken" cookie
+# 3. In your "leetcode-solutions" repo → Settings → Secrets → Actions
+#    → Add secret: Name = LEETCODE_SESSION, Value = (paste session cookie)
+#    → Add secret: LEETCODE_CSRF_TOKEN, Value = (paste csrftoken cookie)
+# 4. Copy this file to: leetcode-solutions/.github/workflows/leetcode-sync.yml
+# 5. Go to Actions tab → Enable workflows → Run manually once to test
+#
+# 🔄 The session cookie expires every ~1-2 weeks. If the sync fails,
+#    refresh both cookies (steps 2-3 above).
+#
+# The sync runs every 12 hours automatically + on manual trigger.
+
 name: LeetCode Sync
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  # Runs automatically every 2 hours
-  workflow_dispatch:        # Allows manual trigger anytime
-
-permissions:
-  contents: write
+    - cron: "0 */12 * * *"  # Runs every 12 hours (twice a day)
+  workflow_dispatch:         # Manual trigger
 
 jobs:
   leetcode-sync:
@@ -16,9 +33,6 @@ jobs:
         uses: joshcai/leetcode-sync@v1.7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: leetcode-solutions
-          commit-header: "LeetCode Sync - "
-          git-author-name: "Arin Chaurasia"
-          git-author-email: "arinchaurasia30@gmail.com"
-

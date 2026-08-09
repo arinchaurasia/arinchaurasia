@@ -1,0 +1,16 @@
+# Secrets — never commit these
+.env
+.cookie_cache.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Sync state
+.last_sync
+
+# Logs
+*.log
